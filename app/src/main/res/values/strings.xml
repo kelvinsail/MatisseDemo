@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CropApplication</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="permission_no_photo">无相册权限</string>
+    <string name="save_success">保存成功</string>
+    <string name="choose_fail">选取失败</string>
+</resources>

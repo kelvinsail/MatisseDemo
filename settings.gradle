@@ -1,0 +1,2 @@
+include ':app', ':permission', ':matisse'
+rootProject.name='CropApplication'
